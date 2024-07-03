@@ -54,7 +54,7 @@ sudo bash manager.sh
 
 Eğer aşağıdaki hatayı alıyorsanız şu komutu girin.
 sudo apt install net-tools
-![image](https://github.com/emirmoralioglu/Rivalz/assets/100806817/f5f2f058-35cd-4e4d-bd2c-d3c393653169)
+[![image](https://github.com/emirmoralioglu/Rivalz/assets/100806817/f5f2f058-35cd-4e4d-bd2c-d3c393653169)](https://github.com/emirmoralioglu/Rivalz/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-03%20192246.png?raw=true)
 
 
 
