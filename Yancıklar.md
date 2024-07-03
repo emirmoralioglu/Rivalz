@@ -54,7 +54,7 @@ sudo bash manager.sh
 
 Eğer aşağıdaki hatayı alıyorsanız şu komutu girin.
 sudo apt install net-tools
-Ekran görüntüsü 2024-07-03 192246.png
+![image](https://github.com/ruesandora/Rivalz/assets/100806817/c4d13b82-7cf5-43c1-b28c-b8ed1237a6c3)
 
 
 
