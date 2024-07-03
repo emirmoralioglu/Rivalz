@@ -52,6 +52,12 @@ sudo ufw allow 8080
 # nodemuzu başlatalım
 sudo bash manager.sh
 
+Eğer aşağıdaki hatayı alıyorsanız şu komutu girin.
+sudo apt install net-tools
+![image](https://github.com/emirmoralioglu/Rivalz/assets/100806817/f5f2f058-35cd-4e4d-bd2c-d3c393653169)
+
+
+
 ```
 > Kendi bilgisayarımıza geçelim ve tarayıcıya girelim.
 
